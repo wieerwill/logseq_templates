@@ -1,10 +1,9 @@
-- # Company
-  template:: company-notes
-  template-including-parent:: true
+# Company
+template:: company-notes
+template-including-parent:: true
 	- ## Meta
 	  type:: [/[company]] 
 	  Tags:: company
-	  icon: 🛠️
 	  adress::
 	  Industry:: 
 	  Partners:: 
@@ -12,8 +11,9 @@
 	  Revenue:: 
 	  Employees:: 
 	  Website:: 
-	  Category:: 
+	  Category::
+	  icon: 🛠️
 	- ## Summary
-	  - 
+		-
 	- ## Notes
-	  - 
+		-
