@@ -13,6 +13,7 @@ template-including-parent:: true
 	  Status:: [/[to-view]] [/[viewed]] 
 	  Rating:: X/10
 	  Recommended-By::
+	  IMDB::
 	- ## Description
 		-
 	- Notes:
