@@ -1,14 +1,14 @@
-- # One on One
-  template:: One-on-One Template
-  template-including-parent:: true
+# One on One
+template:: One-on-One Template
+template-including-parent:: true
 	- ## Meta
 	  Type:: [/[one_on_one]]
 	  Tags:: one_on_one
-	  icon: 🤝
 	  Attendees:: 
 	  Project:: 
 	  Topic:: 
 	  Date:: <% today %>
+	  icon: 🤝
 	- ## Check-in (5 mins)
 		-
 	- ## Recent Work Recap (10 min)
@@ -22,4 +22,4 @@
 		  :END:
 	- ## Notes
 	- ## Questions to Ask
-	  - 
+		-
