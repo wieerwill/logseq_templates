@@ -1,10 +1,10 @@
-- # Eisenhower Matrix
-  template:: eisenhower-matrix
-  template-including-parent:: true
+# Eisenhower Matrix
+template:: eisenhower-matrix
+template-including-parent:: true
 	- ## Meta
 	  Type:: [/[eisenhower]]
 	  Tags:: eisenhower
-	  icon: 📋
+	  icon:: 📋
 	  Title:: 
 	  Project:: 
 	  Date:: <% today %>
