@@ -4,6 +4,7 @@ template-including-parent:: true
 	- ## Meta
 	  type:: [/[company]] 
 	  Tags:: company
+	  icon:: 🛠️
 	  adress::
 	  Industry:: 
 	  Partners:: 
@@ -12,7 +13,6 @@ template-including-parent:: true
 	  Employees:: 
 	  Website:: 
 	  Category::
-	  icon: 🛠️
 	- ## Summary
 		-
 	- ## Notes
