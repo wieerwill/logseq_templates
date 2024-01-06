@@ -2,7 +2,7 @@
   template:: Meeting
   template-including-parent:: true
 	- ## Meta
-	  Type:: [/[Meeting]]
+	  Type:: [/[meeting]]
 	  Tags:: meeting
 	  icon: 👥
 	  Title:: 

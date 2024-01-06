@@ -2,7 +2,7 @@
   template:: One-on-One Template
   template-including-parent:: true
 	- ## Meta
-	  Type:: [[One_on_one]]
+	  Type:: [/[one_on_one]]
 	  Tags:: one_on_one
 	  icon: 🤝
 	  Attendees:: 

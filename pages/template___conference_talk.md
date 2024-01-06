@@ -2,7 +2,7 @@
   template:: Conference Talk Template
   template-including-parent:: true
 	- ## Meta
-  	  Type:: [/[conference talk]]
+  	  Type:: [/[conference_talk]]
 	  Tags:: conference_talk
 	  icon: 🦜
 	  title:: 
