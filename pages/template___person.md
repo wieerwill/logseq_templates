@@ -1,10 +1,10 @@
-- # Person
-  template:: person
-  template-including-parent:: true
+# Person
+template:: person
+template-including-parent:: true
 	- ## Meta
 	  type:: [/[person]]
 	  tags:: person
-	  icon: 👤
+	  icon:: 👤
 	  name:: 
 	  alias:: 
 	  related::
@@ -26,6 +26,6 @@
 	  preference-for-praise::
 	  areas-for-growth::
 	- ## Summary
-	  - 
+		-
 	- ## Notes
-	  - 
+		-
