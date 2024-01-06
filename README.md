@@ -4,6 +4,8 @@ Using LogSeq and writing everything from scratch every time you want to add some
 Make your LogSeq clean and organized with some templates. Each template is a Markdown file itself and can be further modified by yourself to your liking. 
 
 ## How to use Templates?
+Add the files in the pages folder into your logseq pages folder. That's all.
+
 1. open any note or create a new page
 2. write "/" and "Temp", auto completion should already suggest "Templates". Press it
 3. Select which template you would like to use

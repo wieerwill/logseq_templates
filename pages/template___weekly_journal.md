@@ -2,15 +2,15 @@
   template:: Weekly Review
   template-including-parent:: true
 	- ## Meta
-	  Type:: [/[timebox]]
-	  Tags:: timebox
-      icon: 👥
+	  Type:: [/[weekly]]
+	  Tags:: weekly
+	  icon: 📅
 	  Date:: <% today %>
-    - ## A line about this week
+	- ## A line about this week
 	  -
-    - ## A line about today
+	- ## A line about today
 	  -
-    - ## What went well this week?
+	- ## What went well this week?
 	  -
 	- ## Habit/Activity Tracking
 	  - 
@@ -41,9 +41,9 @@
 		  logseq.order-list-type:: number
 		- -
 		  logseq.order-list-type:: number
-    - ## What am I grateful for this week?
+	- ## What am I grateful for this week?
 	  -
-    - ## What am I proud of this week?
+	- ## What am I proud of this week?
 	  -
-    - ## What brought me joy this week? Happiest event this week
+	- ## What brought me joy this week? Happiest event this week
 	  -

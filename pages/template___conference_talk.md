@@ -2,9 +2,9 @@
   template:: Conference Talk Template
   template-including-parent:: true
 	- ## Meta
-  	  Type:: [/[Conference Talk]]
+  	  Type:: [/[conference talk]]
 	  Tags:: conference_talk
-	  icon: 📚
+	  icon: 🦜
 	  title:: 
 	  speaker:: 
 	  conference:: 

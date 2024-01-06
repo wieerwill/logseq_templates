@@ -2,10 +2,10 @@
   template:: company-notes
   template-including-parent:: true
 	- ## Meta
-	  type:: [[company]] 
+	  type:: [/[company]] 
 	  Tags:: company
-      icon: 📚
-      adress::
+	  icon: 🛠️
+	  adress::
 	  Industry:: 
 	  Partners:: 
 	  Customers:: 

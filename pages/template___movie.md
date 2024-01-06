@@ -4,14 +4,15 @@
 	- ## Meta
 	  Type:: [/[movie]]
 	  Tags:: movie
-      icon: 👤
-      Name:: XXX
-	  Director:: XXX
-	  Release-year:: 2024
+	  icon: 🎬
+	  Name:: 
+	  Director:: 
+	  Release-year:: 
+	  Genre:: 
 	  Watched-on:: <%today%>
 	  Status:: [/[to-view]] [/[viewed]] 
 	  Rating:: X/10
-      Recommended-By::
+	  Recommended-By::
 	- ## Description
 	  - 
 	- Notes: 

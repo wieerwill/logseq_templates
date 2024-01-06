@@ -2,9 +2,9 @@
   template:: book-notes
   template-including-parent:: true
 	- ## Meta
-	  Type:: [/[Book]]
+	  Type:: [/[book]]
 	  Tags:: book
-      icon: 📚
+	  icon: 📚
 	  Status:: [/[to-read]] [/[Reading]] [/[Read]] 
 	  Cover:: ![image](){:height 172, :width 98}
 	  Title:: 
@@ -13,11 +13,11 @@
 	  Year:: 
 	  Genre::
 	  Rating:: X/10
-      Recommended-By::
+	  Recommended-By::
 	  cover:: ![image](URL here){:height 172, :width 98}
-    - ## Summary
-        - 
-    - ## Summarise the book in 3 Sentences
+	- ## Summary
+		- 
+	- ## Summarise the book in 3 Sentences
 		-
 	- ## Highlights
 		- 
@@ -26,10 +26,10 @@
 	- Will I take anything away from it permanently?
 		-
 	- My top 3 quotes
-        - 1. "..." page XYZ
-        - 2. 
-        - 3. 
+		- 1. "..." page XYZ
+		- 2. 
+		- 3. 
 	- Would I recommend this book wholeheartedly to...
 		- Partner, family, friends, colleagues, manager, direct reports
 	- Notes
-	    - 
+		- 

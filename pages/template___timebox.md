@@ -4,26 +4,26 @@
 	- ## Meta
 	  Type:: [/[timebox]]
 	  Tags:: timebox
-    icon: 👥
+	  icon: 📅
 	  Date:: <% today %>
   - # Brain Dump
-    #+BEGIN_NOTE
+	#+BEGIN_NOTE
     Take everything that’s in your brain that you need to get done and jotted down as quickly as you possibly can. Don’t think about it. Just write them down
-    #+END_NOTE
-    - 1. Blah Blah
-      2. Blah Blah
-  - # Top Priorities #.kanban
+	#+END_NOTE
+	- 1. Blah Blah
+	  2. Blah Blah
+	- # Top Priorities #.kanban
     #+BEGIN_NOTE
     List out your Tasks Categorized by Task
     #+END_NOTE
-    - ## 🔴 High {{renderer :todomaster}}
-      - [#A] Low Priority Task
-    - ## 🟡 Normal {{renderer :todomaster}}
-      - [#B] Normal Priority Task
-    - ## 🟢 Low {{renderer :todomaster}}
-      - [#C] High Priority Task
+	- ## 🔴 High {{renderer :todomaster}}
+	  - [#A] Low Priority Task
+	- ## 🟡 Normal {{renderer :todomaster}}
+	  - [#B] Normal Priority Task
+	- ## 🟢 Low {{renderer :todomaster}}
+	  - [#C] High Priority Task
   - # Morning Box #.kanban
-      - query-table: true
+	  - query-table: true
     #+BEGIN_NOTE
     Build your Morning Plan
     #+END_NOTE

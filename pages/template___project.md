@@ -2,10 +2,10 @@
   template:: project
   template-including-parent:: true
 	- ## Meta
-	  Type:: [/[Project]]
+	  Type:: [/[project]]
 	  Tags:: project
-      icon: 📂
-      title:: 
+	  icon: 📂
+	  title:: 
 	  Status:: [/[Idea]] [/[Planned]] [/[Active]] [/[Completed]]
 	  Team:: 
 	  Lead:: 
@@ -15,13 +15,13 @@
 	  areas::
 	  priority::
 	- ## Objective/Goal
-	    - 
+		- 
 	- ## Scope
-	    - 
+		- 
 	- ## Project Kickoff Checklist
-	    - 
+		- 
 	- ## Tasklist
-    	- TODO Setup project page
+		- TODO Setup project page
 	- ## Tasks
 		- {{query (and <% current page %> (task LATER))}}
 	- ## Resources
@@ -32,18 +32,18 @@
 #+BEGIN_QUERY
 {:title [:h2 "Related Tasks"]
  :query [:find (pull ?b [*])
-         :in $ ?query-page
-         :where
-         [?p :block/name ?query-page]
-         [?b :block/marker ?marker]
-         [?b :block/refs ?p]
-         [?ref :block/name "project"]
-         (not [?b :block/refs ?ref])
-         [(contains? #{"TODO" "DOING" "NOW" "LATER" "WAITING"} ?marker)]]
+		 :in $ ?query-page
+		 :where
+		 [?p :block/name ?query-page]
+		 [?b :block/marker ?marker]
+		 [?b :block/refs ?p]
+		 [?ref :block/name "project"]
+		 (not [?b :block/refs ?ref])
+		 [(contains? #{"TODO" "DOING" "NOW" "LATER" "WAITING"} ?marker)]]
  :inputs [:query-page]
  :result-transform (fn [result]
-                     (sort-by (fn [b]
-                                (get b :block/priority "Z")) result))
+					 (sort-by (fn [b]
+								(get b :block/priority "Z")) result))
  :breadcrumb-show? false
  :group-by-page? false
  :collapsed? false
@@ -52,17 +52,17 @@
 #+BEGIN_QUERY
 {:title [:h2 "Checklist"]
  :query [:find (pull ?b [*])
-         :in $ ?tag
-         :where
-         [?b :block/marker ?marker]
-         [(contains? #{"TODO"} ?marker)]
-         (page-ref ?b ?tag)
-         [?ref :block/name "project"]
-         (not [?b :block/refs ?ref])]
+		 :in $ ?tag
+		 :where
+		 [?b :block/marker ?marker]
+		 [(contains? #{"TODO"} ?marker)]
+		 (page-ref ?b ?tag)
+		 [?ref :block/name "project"]
+		 (not [?b :block/refs ?ref])]
  :inputs [:query-page]
  :result-transform (fn [result]
-                     (sort-by (fn [b]
-                                (get b :block/priority "Z")) result))
+					 (sort-by (fn [b]
+								(get b :block/priority "Z")) result))
  :breadcrumb-show? true
  :table-view? false
 }
@@ -70,18 +70,18 @@
 #+BEGIN_QUERY
 {:title [:h2 "Completed Related Tasks"]
  :query [:find (pull ?b [*])
-         :in $ ?query-page
-         :where
-         [?p :block/name ?query-page]
-         [?b :block/marker "DONE"]
-         [?b :block/refs ?p]
-         [?ref :block/name "project"]
-         (not [?b :block/refs ?ref])         
-         ]
+		 :in $ ?query-page
+		 :where
+		 [?p :block/name ?query-page]
+		 [?b :block/marker "DONE"]
+		 [?b :block/refs ?p]
+		 [?ref :block/name "project"]
+		 (not [?b :block/refs ?ref])		 
+		 ]
  :inputs [:query-page]
  :result-transform (fn [result]
-                     (sort-by (fn [b]
-                                (get b :block/priority "Z")) result))
+					 (sort-by (fn [b]
+								(get b :block/priority "Z")) result))
  :breadcrumb-show? false
  :group-by-page? false
  :collapsed? false

@@ -4,7 +4,7 @@
 	- ## Meta
 	  Type:: [/[Meeting]]
 	  Tags:: meeting
-      icon: 👥
+	  icon: 👥
 	  Title:: 
 	  Project:: 
 	  Topic:: 
@@ -13,7 +13,7 @@
 	  Date:: <% today %>
 	  Objective:: 
 	- ## Notes
-    	- 
+		- 
 	- ## Main topics of discussion
 		- ABC
 		- XYZ
@@ -23,4 +23,4 @@
 		  		  CLOCK: [2024-01-01 Mon 12:00:00]--[2024-01-01 Mon 13:00:00] =>  00:01:00
 		  :END:
 	- ## Next Meeting
-	    - 
+		- 

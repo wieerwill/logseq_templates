@@ -2,9 +2,9 @@
   template:: person
   template-including-parent:: true
 	- ## Meta
-	  type:: [/[Person]]
+	  type:: [/[person]]
 	  tags:: person
-      icon: 👤
+	  icon: 👤
 	  name:: 
 	  alias:: 
 	  related::

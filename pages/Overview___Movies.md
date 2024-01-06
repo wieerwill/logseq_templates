@@ -1,4 +1,4 @@
 # Movies
-- {{query (page-property :type [[Movie]])}}
-  query-properties:: [:page :rating :watched-on :release-year :director :name]
+- {{query (property type [[Movie]])}}
   query-table:: true
+  query-properties:: [:page :rating :watched-on :release-year :name]
