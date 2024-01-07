@@ -1,6 +1,6 @@
 # Movie Review
 	- ## Meta
-	  Type:: [/[movie]]
+	  Type:: movie
 	  Tags:: movie
 	  icon:: 🎬
 	  Name:: Alien
