@@ -1,6 +1,6 @@
-- # Event
-  template:: event
-  template-including-parent:: false
+# Event
+template:: event
+template-including-parent:: false
 	- ## Meta
 	  type:: event
 	  tags:: event
@@ -12,8 +12,9 @@
 	  website:: 
 	  category:: 
 	  participants:: 
+	  pricing::
 	- ## Description
-		- 
+		-
 	- ## Planning
 		- TODO find other interested
 		- TODO Buy Tickets
@@ -22,6 +23,6 @@
 	- ## Event Highlights
 		- must have to visit
 	- ## What to pack for the event
-		- 
+		-
 	- ## Notes
-		- 
+		-

@@ -3,6 +3,29 @@ Using LogSeq and writing everything from scratch every time you want to add some
 
 Make your LogSeq clean and organized with some templates. Each template is a Markdown file itself and can be further modified by yourself to your liking. 
 
+**Current Available Templates** (with Overviews and other enhancements):
+- Book
+- Company
+- Conference Talk
+- Daily Journal
+- Eisenhower Matrix
+- Event
+- Goal
+- Health Tracker
+- Meeting
+- Movie
+- Person
+- Project
+- Recipe
+- Restaurant
+- Retro
+- Timebox
+- Weeky Journal
+
+**Upcoming Templates**:
+- Habit Tracker
+- ... also adding some custom CSS and Styling
+
 ## How to use Templates?
 Add the files in the pages folder into your logseq pages folder. That's all.
 
@@ -15,3 +38,6 @@ With the Overview Pages and Tags, you will find everything very quickly.
 
 ## How to use Overview?
 The Overview Pages query your pages and create nice overviews for each topic. Use those to navigate and gather your thoughts. 
+
+## Contribute
+You are very welcome to contribute. Either with new template (ideas), improving the current templates, maybe some automation or enhanced queries? I always appreciate working together, so fork this repo and let's get it going.

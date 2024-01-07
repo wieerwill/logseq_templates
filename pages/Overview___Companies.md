@@ -1,2 +1,2 @@
 # Company Overview
-- {{query (page-property type company)}}
+- {{query (property type company)}}

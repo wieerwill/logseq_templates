@@ -4,7 +4,7 @@ template-including-parent:: false
 	- ## Meta
 	  type:: goal
 	  tags:: goal
-	  icon:: 🥅
+	  icon:: 🎯
 	  status:: [/[ToBegin]] [/[InProgress]] [/[Finished]] [/[Aborted]] 
 	  title:: 
 	  created:: <% today %>
