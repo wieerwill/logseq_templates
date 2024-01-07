@@ -2,10 +2,10 @@
   template:: Weekly Review
   template-including-parent:: false
 	- ## Meta
-	  Type:: [/[weekly]]
-	  Tags:: weekly
+	  type:: weekly
+	  tags:: weekly
 	  icon:: 📅
-	  Date:: <% today %>
+	  date:: <% today %>
 	- ## A line about this week
 		-
 	- ## A line about today

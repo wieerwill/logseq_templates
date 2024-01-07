@@ -7,9 +7,9 @@
 	  icon:: 📅
 	  date:: <% today %>
 	- # Brain Dump
-	  #+BEGIN_NOTE
-	  Take everything that’s in your brain that you need to get done and jotted down as quickly as you possibly can. Don’t think about it. Just write them down
-	  #+END_NOTE
+	  	#+BEGIN_NOTE
+	  	Take everything that’s in your brain that you need to get done and jotted down as quickly as you possibly can. Don’t think about it. Just write them down
+	  	#+END_NOTE
     	- 1. Blah Blah
     	  1. Blah Blah
 	- # Top Priorities #.kanban
