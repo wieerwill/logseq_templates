@@ -1,6 +1,6 @@
 # Movie Review
 	- ## Meta
-	  type:: [[Movie]]
+	  type:: [/[movie]]
 	  tags:: movie
 	  icon:: 🎬
 	  Name:: Napoleon
