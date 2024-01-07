@@ -5,6 +5,7 @@ It also neatly groups them together and makes them easy to search
 #+END_QUOTE
 
 - [[Overview/Tasklist]]
+- [[Overview/Events]]
 - [[Overview/Projects]]
 - [[Overview/Contacts]]
 - [[Overview/Companies]]

@@ -1,10 +1,10 @@
 # Book Notes
 template:: book-notes
-template-including-parent:: true
+template-including-parent:: false
 	- ## Meta
 	  Type:: [/[book]]
 	  Tags:: book
-	  Status:: [/[to-read]] [/[Reading]] [/[Read]] 
+	  Status:: [/[to-read]] [/[reading]] [/[finished]] 
 	  Cover:: ![image](){:height 172, :width 98}
 	  Title:: 
 	  alias:: 

@@ -1,6 +1,6 @@
 # Movie Review
 template:: movie-review
-template-including-parent:: true
+template-including-parent:: false
 	- ## Meta
 	  Type:: [/[movie]]
 	  Tags:: movie

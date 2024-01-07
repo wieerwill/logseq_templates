@@ -1,6 +1,6 @@
 # Company
 template:: company-notes
-template-including-parent:: true
+template-including-parent:: false
 	- ## Meta
 	  type:: [/[company]] 
 	  Tags:: company

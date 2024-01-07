@@ -1,6 +1,6 @@
 # Eisenhower Matrix
 template:: eisenhower-matrix
-template-including-parent:: true
+template-including-parent:: false
 	- ## Meta
 	  Type:: [/[eisenhower]]
 	  Tags:: eisenhower

@@ -1,6 +1,6 @@
-# Project
-template:: project
-template-including-parent:: true
+- # Project
+  template:: project
+  template-including-parent:: false
 	- ## Meta
 	  Type:: [/[project]]
 	  Tags:: project

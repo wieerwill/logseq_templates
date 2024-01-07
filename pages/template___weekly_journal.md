@@ -1,6 +1,6 @@
-# Weekly Journal Reflection
-template:: Weekly Review
-template-including-parent:: true
+- # Weekly Journal Reflection
+  template:: Weekly Review
+  template-including-parent:: false
 	- ## Meta
 	  Type:: [/[weekly]]
 	  Tags:: weekly

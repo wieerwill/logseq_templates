@@ -1,6 +1,6 @@
 # Meeting Template
 template:: Meeting
-template-including-parent:: true
+template-including-parent:: false
 	- ## Meta
 	  Type:: [/[meeting]]
 	  Tags:: meeting

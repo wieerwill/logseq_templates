@@ -1,6 +1,6 @@
 # Conference Talk
 template:: Conference Talk Template
-template-including-parent:: true
+template-including-parent:: false
 	- ## Meta
 	    Type:: [/[conference_talk]]
 	  Tags:: conference_talk

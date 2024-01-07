@@ -1,6 +1,6 @@
-# Retro
-template: Retro
-template-including-parent:: true
+- # Retro
+  template: Retro
+  template-including-parent:: false
 	- ## Meta
 	  Type:: [/[retro]]
 	  Tags:: retro

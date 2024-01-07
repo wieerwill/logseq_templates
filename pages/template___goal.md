@@ -1,6 +1,6 @@
 # Goal
 template:: goal
-template-including-parent:: true
+template-including-parent:: false
 	- ## Meta
 	  Type:: [\[goal]]
 	  Tags:: goal

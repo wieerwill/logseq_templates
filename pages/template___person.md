@@ -1,6 +1,6 @@
-# Person
-template:: person
-template-including-parent:: true
+- # Person
+  template:: person
+  template-including-parent:: false
 	- ## Meta
 	  type:: [/[person]]
 	  tags:: person

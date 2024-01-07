@@ -1,6 +1,6 @@
 - # Daily Journal
   template:: Daily Journal Template
-  template-including-parent:: true
+  template-including-parent:: false
 	- ## Meta
 	  tags:: [\[daily]]
 	  Date:: <% today %>
