@@ -2,8 +2,8 @@
 template:: Conference Talk Template
 template-including-parent:: false
 	- ## Meta
-	    Type:: [/[conference_talk]]
-	  Tags:: conference_talk
+	  type:: conference_talk
+	  tags:: conference_talk
 	  icon:: 🦜
 	  title:: 
 	  speaker:: 

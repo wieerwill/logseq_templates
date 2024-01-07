@@ -2,7 +2,7 @@
   template:: event
   template-including-parent:: false
 	- ## Meta
-	  type:: [/[event]] 
+	  type:: event
 	  tags:: event
 	  icon:: 🎪
 	  title:: 

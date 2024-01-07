@@ -2,8 +2,8 @@
   template:: Daily Journal Template
   template-including-parent:: false
 	- ## Meta
-	  tags:: [\[daily]]
-	  Date:: <% today %>
+	  tags:: daily
+	  date:: <% today %>
 	- ## Today's Goals
 		- ### TODO 1.
 		- ### TODO 2.

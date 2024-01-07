@@ -2,8 +2,8 @@
 template:: goal
 template-including-parent:: false
 	- ## Meta
-	  Type:: [\[goal]]
-	  Tags:: goal
+	  type:: goal
+	  tags:: goal
 	  icon:: 🥅
 	  status:: [/[ToBegin]] [/[InProgress]] [/[Finished]] [/[Aborted]] 
 	  title:: 

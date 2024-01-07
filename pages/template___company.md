@@ -2,7 +2,7 @@
 template:: company-notes
 template-including-parent:: false
 	- ## Meta
-	  type:: [/[company]] 
+	  type:: company
 	  tags:: company
 	  icon:: 🛠️
 	  adress::

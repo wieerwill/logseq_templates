@@ -2,12 +2,12 @@
 template:: eisenhower-matrix
 template-including-parent:: false
 	- ## Meta
-	  Type:: [/[eisenhower]]
-	  Tags:: eisenhower
+	  type:: eisenhower
+	  tags:: eisenhower
 	  icon:: 📋
-	  Title:: 
-	  Project:: 
-	  Date:: <% today %>
+	  title:: 
+	  project:: 
+	  date:: <% today %>
 	- ![Eisenhower Matrix.drawio.png](../assets/Eisenhower_Matrix.png)
 	- [[TODO]]
 		-

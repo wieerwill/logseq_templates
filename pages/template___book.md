@@ -2,7 +2,7 @@
 template:: book-notes
 template-including-parent:: false
 	- ## Meta
-	  type:: [/[book]]
+	  type:: book
 	  tags:: book
 	  status:: [/[to-read]] [/[reading]] [/[finished]] 
 	  cover:: ![image](){:height 172, :width 98}
