@@ -1,5 +1,5 @@
 ## Meta
-type:: movie
+type:: [[movie]]
 tags:: movie
 icon:: 🎬
 name:: Napoleon
