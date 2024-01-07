@@ -13,15 +13,15 @@
 	  category:: 
     participants:: 
 	- ## Description
-      - 
+		- 
   - ## Planning
-    - TODO find other interested
-    - TODO Buy Tickets
-    - TODO Get Hotel
-    - TODO Organize Travel
+		- TODO find other interested
+		- TODO Buy Tickets
+		- TODO Get Hotel
+		- TODO Organize Travel
   - ## Event Highlights
-    - must have to visit
+		- must have to visit
   - ## What to pack for the event
-      - 
+		- 
 	- ## Notes
 		- 
