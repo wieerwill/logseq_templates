@@ -2,16 +2,16 @@
   template:: project
   template-including-parent:: false
 	- ## Meta
-	  Type:: [/[project]]
-	  Tags:: project
+	  type:: project
+	  tags:: project
 	  icon:: 📂
 	  title:: 
-	  Status:: [/[Idea]] [/[Planned]] [/[Active]] [/[Completed]]
-	  Team:: 
-	  Lead:: 
-	  Goals:: 
-	  Start:: 
-	  End::  
+	  status:: [/[Idea]] [/[Planned]] [/[Active]] [/[Completed]]
+	  team:: 
+	  lead:: 
+	  goals:: 
+	  start:: 
+	  end::  
 	  areas::
 	  priority::
 	- ## Objective/Goal

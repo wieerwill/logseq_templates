@@ -2,8 +2,8 @@
   template: Retro
   template-including-parent:: false
 	- ## Meta
-	  Type:: [/[retro]]
-	  Tags:: retro
+	  type:: retro
+	  tags:: retro
 	  icon:: 📅
 		- |Journal Entry|||||
 		  |--|--|--|--|--|
