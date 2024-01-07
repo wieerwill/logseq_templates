@@ -14,14 +14,14 @@
     participants:: 
 	- ## Description
 		- 
-  - ## Planning
+	- ## Planning
 		- TODO find other interested
 		- TODO Buy Tickets
 		- TODO Get Hotel
 		- TODO Organize Travel
-  - ## Event Highlights
+	- ## Event Highlights
 		- must have to visit
-  - ## What to pack for the event
+	- ## What to pack for the event
 		- 
 	- ## Notes
 		- 
