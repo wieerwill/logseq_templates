@@ -2,17 +2,17 @@
 template:: book-notes
 template-including-parent:: false
 	- ## Meta
-	  Type:: [/[book]]
-	  Tags:: book
-	  Status:: [/[to-read]] [/[reading]] [/[finished]] 
-	  Cover:: ![image](){:height 172, :width 98}
-	  Title:: 
+	  type:: [/[book]]
+	  tags:: book
+	  status:: [/[to-read]] [/[reading]] [/[finished]] 
+	  cover:: ![image](){:height 172, :width 98}
+	  title:: 
 	  alias:: 
-	  Author:: 
-	  Year:: 
-	  Genre::
-	  Rating:: X/10
-	  Recommended-By::
+	  author:: 
+	  year:: 
+	  genre::
+	  rating:: X/10
+	  recommended-By::
 	  cover:: ![image](URL here){:height 172, :width 98}
 	  icon: 📚
 	- ## Summary

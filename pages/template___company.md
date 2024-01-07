@@ -3,16 +3,16 @@ template:: company-notes
 template-including-parent:: false
 	- ## Meta
 	  type:: [/[company]] 
-	  Tags:: company
+	  tags:: company
 	  icon:: 🛠️
 	  adress::
-	  Industry:: 
-	  Partners:: 
-	  Customers:: 
-	  Revenue:: 
-	  Employees:: 
-	  Website:: 
-	  Category::
+	  industry:: 
+	  partners:: 
+	  customers:: 
+	  revenue:: 
+	  employees:: 
+	  website:: 
+	  category::
 	- ## Summary
 		-
 	- ## Notes
