@@ -5,13 +5,13 @@
 	  type:: [/[event]] 
 	  tags:: event
 	  icon:: 🎪
-    title:: 
-    startDate:: 
-    endDate:: 
+	  title:: 
+	  startDate:: 
+	  endDate:: 
 	  location:: 
 	  website:: 
 	  category:: 
-    participants:: 
+	  participants:: 
 	- ## Description
 		- 
 	- ## Planning
