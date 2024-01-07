@@ -2,16 +2,16 @@
 template:: Meeting
 template-including-parent:: false
 	- ## Meta
-	  Type:: [/[meeting]]
-	  Tags:: meeting
+	  type:: meeting
+	  tags:: meeting
 	  icon:: 👥
-	  Title:: 
-	  Project:: 
-	  Topic:: 
-	  Areas::
-	  Attendees:: 
-	  Date:: <% today %>
-	  Objective::
+	  title:: 
+	  project:: 
+	  topic:: 
+	  areas::
+	  attendees:: 
+	  date:: <% today %>
+	  objective::
 	- ## Notes
 		-
 	- ## Main topics of discussion

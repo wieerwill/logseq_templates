@@ -2,18 +2,18 @@
 template:: movie-review
 template-including-parent:: false
 	- ## Meta
-	  Type:: [/[movie]]
-	  Tags:: movie
+	  type:: movie
+	  tags:: movie
 	  icon:: 🎬
-	  Name:: 
-	  Director:: 
-	  Release-year:: 
-	  Genre:: 
-	  Watched-on:: <%today%>
-	  Status:: [/[to-view]] [/[viewed]] 
-	  Rating:: X/10
-	  Recommended-By::
-	  IMDB::
+	  name:: 
+	  director:: 
+	  release-year:: 
+	  genre:: 
+	  watched-on:: <%today%>
+	  status:: [/[to-view]] [/[viewed]] 
+	  rating:: X/10
+	  recommended-By::
+	  imdb::
 	- ## Description
 		-
 	- Notes:
