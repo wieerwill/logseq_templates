@@ -1,6 +1,6 @@
 - # Time Box
-  template: time_box
-  template-including-parent: false
+  template:: time_box
+  template-including-parent:: false
 	- ## Meta
 	  type:: timebox
 	  tags:: timebox
